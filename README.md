@@ -1,1 +1,2 @@
 # gtneoe
+chedit chatgpt 
